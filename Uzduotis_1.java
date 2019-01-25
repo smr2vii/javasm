@@ -45,10 +45,10 @@ public class Uzduotis_1 {
                         break;
                 }
             }else{
-                System.out.println("netinkamas skaicius");
+                System.out.println("Netinkamas skaicius");
             }
         }else {
-            System.out.println("netinkamas skaicius");
+            System.out.println("Netinkamas skaicius");
         }
 
     }
